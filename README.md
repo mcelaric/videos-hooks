@@ -1,3 +1,7 @@
+# Youtube search React JS app using custom hooks
+This app was created from the Udemy course 'Modern React with Redux [2020 update] by Stephen Grider.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
