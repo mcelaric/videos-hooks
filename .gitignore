@@ -24,3 +24,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+src/hooks/useVideos_Mike.js
+src/hooks/useVideos_solution.js
+src/redux_example.js
